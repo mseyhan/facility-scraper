@@ -1,0 +1,17 @@
+Hey! now you'll help me solve a scraping bug. I'll describe the problem to you.
+
+I attached a screenshot of the website I'd like to scrape. I'll give you the html code of this part for that website too.
+
+As you can see, there are buttons as Rezervasyon, and there are time slots. 
+
+I produced a working code with a bug. Everything works perfectly but the problem is,
+
+Whenever I run my code, it clicks the first Reservation button in the right column for the right date.
+
+I want it to click on the button that is clearly stated in my config file. e.g 11:00 - 12:00
+
+when I run my code for 11:00 - 12:00, it gets 07:00 - 08:00 as the first Rezervasyon button that it sees. We should change something, but what?
+
+If I'm sure you understood the task, I'll start by giving you the html, then in my other message i'll give you the necessary code.
+
+
